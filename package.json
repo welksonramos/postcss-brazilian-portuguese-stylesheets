@@ -1,0 +1,29 @@
+{
+  "name": "postcss-brazilian-portuguese-stylesheets",
+  "version": "0.1.0",
+  "description": "PostCSS plugin for writing CSS in Brazilian Portuguese",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "portuguese",
+    "brazilian"
+  ],
+  "author": "Welkson Ramos <welksonr@hotmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welksonramos/postcss-brazilian-portuguese-stylesheets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/welksonramos/postcss-brazilian-portuguese-stylesheets/issues"
+  },
+  "homepage": "https://github.com/welksonramos/postcss-brazilian-portuguese-stylesheets#readme",
+  "dependencies": {
+    "postcss": "^5.0.21"
+  }
+}
